@@ -1,2 +1,2 @@
 # FestivalDeMusica
-Proyecto en el cual use herramientas como HTML, JS, npm, Gulp y Sass, así como Normalize y Plumber
+This is a 100% practical project where I could practice HTML, JS, npm, Gulp and Sass, and others like Normalize y Plumber
